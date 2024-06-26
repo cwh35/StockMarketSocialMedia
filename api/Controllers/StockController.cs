@@ -6,7 +6,6 @@ using api.Data;
 using api.Mappers;
 using api.Dtos.Stock;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using api.Interfaces;
 
 namespace api.Controllers
