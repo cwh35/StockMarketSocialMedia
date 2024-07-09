@@ -42,3 +42,12 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 .fake
+
+# Ignore the bin folder inside the api directory
+api/bin/
+
+# Ignore the obj folder inside the api directory
+api/obj/
+
+# Ignore the api.http file inside the api directory
+api/api.http
